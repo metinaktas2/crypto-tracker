@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/02db6ce7-8f95-41d3-9079-3c62ffb2eb74
 
 ## ✨ Features
 
-- 🔍 Search any cryptocurrency بسهولة via a powerful search input  
+- 🔍 Search any cryptocurrency via a powerful search input  
 - 📊 Real-time crypto price tracking  
 - 📈 Interactive charts (hourly, daily, monthly, yearly)  
 - 💰 Detailed coin information (price, volume, market data, etc.)  
